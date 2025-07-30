@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================================
 
 Machine and Deep Learning Engineer
-----------------------------------
+-----------------------------------
 
 Hi, I'm Muhammad Asim Shaban, a passionate and dedicated learner with a growing interest in Machine Learning, Deep Learning, and Computer Vision. My journey into artificial intelligence began with curiosity about how machines can learn from data and make intelligent decisions — and it has since turned into a focused pursuit of building real-world AI solutions. I’ve been exploring various machine learning techniques, from traditional supervised and unsupervised models to more advanced neural networks and deep learning architectures.
 
