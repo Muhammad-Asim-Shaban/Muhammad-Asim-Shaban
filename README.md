@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Muhammad Asim Shaban, a passionate developer specializing in AI and machine learning. My mission is to create innovative solutions that enhance everyday experiences.
+I'm Muhammad Asim Shaban a passionate developer specializing in AI and machine learning. My mission is to create innovative solutions that enhance everyday experiences.
 
 ## About Me
 
