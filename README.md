@@ -19,7 +19,7 @@ I enjoy working on projects that challenge my creativity and problem solving ski
 
 
 ## GitHub Stats
-🌟 Public Repositories: 44 | 👥 Followers: 0 | 🔄 Following: 0 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Asim-Shaban&show_icons=true&theme=radical)
+🌟 Public Repositories: 46 | 👥 Followers: 0 | 🔄 Following: 0 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Asim-Shaban&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Asim-Shaban&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
