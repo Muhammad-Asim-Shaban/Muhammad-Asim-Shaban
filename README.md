@@ -4,7 +4,7 @@ I'm Muhammad Asim Shaban a passionate developer specializing in AI and machine l
 
 ## About Me
 
-I enjoy working on projects that challenge my creativity and problem solving skills. I have a strong background in Python and have worked on various projects that utilize AI technologies
+I enjoy working on projects that challenge my creativity and problem solving skills. I have a strong background in Python and have worked on various projects that utilize AI technologies.
 
 ## Skills & Technologies
 
