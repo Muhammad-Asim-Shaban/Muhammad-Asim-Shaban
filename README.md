@@ -10,7 +10,7 @@ I enjoy working on projects that challenge my creativity and problem solving ski
 
 [![My Skills](https://skillicons.dev/icons?i=pycharm,py,c,cpp,dart,anaconda,git,bash,vscode,sublime,html,css,tensorflow,docker&perline=8)](https://skillicons.dev)
 
-## Top Projects
+## Top Projects.
 
 
 
