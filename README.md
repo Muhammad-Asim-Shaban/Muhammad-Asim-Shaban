@@ -28,7 +28,7 @@ I enjoy working on projects that challenge my creativity and problem solving ski
 - **[Text Summarizer Using LangChain](https://github.com/Muhammad-Asim-Shaban/Text-Summarizer-Using-LangChain)**: Added Dev Container Folder on August 24, 2025. 
 - **[AI Caption Generator Web App](https://github.com/Muhammad-Asim-Shaban/AI-Caption-Generator-Web-App)**: Updated to improve functionality on August 16, 2025.
 
-## Latest Blog Posts
+## Latest Blog Posts.
 
 Currently, I do not have any blog posts available. Stay tuned for updates!
 
